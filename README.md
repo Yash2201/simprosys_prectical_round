@@ -5,7 +5,7 @@
 Follow these steps to set up the project on your local system:
 
 1. Clone the Repository
-Clone the `Simprosys Infomedia` project to your local system using the following command:
+Clone the `simprosys_prectical_round` project to your local system using the following command:
 git clone <repository-url>
 
 2. Set Up Environment Variables
