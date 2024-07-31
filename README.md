@@ -5,7 +5,7 @@
 Follow these steps to set up the project on your local system:
 
 1. Clone the Repository
-Clone the `Prectical-Round-Space-O-Technologies` project to your local system using the following command:
+Clone the `Simprosys Infomedia` project to your local system using the following command:
 git clone <repository-url>
 
 2. Set Up Environment Variables
@@ -25,5 +25,3 @@ php artisan serve
 
 6. run the postmen.
    run the postman collection in postman and check the output.
-
-This command will give you a link similar to http://127.0.0.1:8000/. Open this link in your browser to check the output.
