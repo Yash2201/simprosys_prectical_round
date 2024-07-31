@@ -13,13 +13,17 @@ Download the .env file from your email and place it in the root directory of the
 
 3. Install PHP Dependencies
 Navigate to the project directory and open a command prompt. Run the following command to install PHP dependencies:
-php artisan install
+conposer install
 
-4. Serve the Application
+4. Run Migrations
+after install dependeciase run the migrations and create table and database using this command 
+php artisan migrate 
+
+5. Serve the Application
 After the php artisan install command has executed successfully, run the following command to serve the application:
 php artisan serve
 
-5. run the postmen.
+6. run the postmen.
    run the postman collection in postman and check the output.
 
 This command will give you a link similar to http://127.0.0.1:8000/. Open this link in your browser to check the output.
