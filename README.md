@@ -23,5 +23,9 @@ php artisan migrate
 After the php artisan install command has executed successfully, run the following command to serve the application:
 php artisan serve
 
-6. run the postmen.
+6. Run Seed Command
+open new terminal and below command to insert the fack data into database
+run php artisan db:seed
+
+7. run the postmen.
    run the postman collection in postman and check the output.
